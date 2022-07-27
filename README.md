@@ -113,7 +113,7 @@ You can also track your order from the JLCPCB.
 My PCBs took 3 days to get manufactured and arrived within a week using the DHL delivery option.
 PCBs were well packed and the quality was really good at this affordable price.
 
-##Create Blynk Cloud FREE Account & Blynk Template
+## Create Blynk Cloud FREE Account & Blynk Template
 
 For this smart house project, I have used the Blynk IoT Cloud Free plan.
 
